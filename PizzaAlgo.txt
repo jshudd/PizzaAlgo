@@ -6,5 +6,6 @@ Pizza Algo
  3a. Decide pay with check
  3b. Decide pay with card
 4. Wait on pizza
-5. Pay delivery dude
-6. Eat Pizza
+5. Answer Door
+6. Pay delivery dude
+7. Eat Pizza
