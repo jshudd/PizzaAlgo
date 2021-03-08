@@ -8,4 +8,6 @@ Pizza Algo
 4. Wait on pizza
 5. Answer Door
 6. Pay delivery dude
+    6a. Argue over tip
+    6b. Relent and give good tip
 7. Eat Pizza
