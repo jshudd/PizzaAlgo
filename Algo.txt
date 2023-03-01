@@ -3,6 +3,8 @@
 3. Call restaurant
 4. Complain they don't accept BTC
 5. Wait on delivery driver
+5a. Complain that the driver doesn't accept BTC as tip
 6. Tip driver
 7. Eat pizza
 8. Throw away the pizza box
+9. Sleep it off
