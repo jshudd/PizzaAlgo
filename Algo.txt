@@ -5,3 +5,4 @@
 5. Wait on delivery driver
 6. Tip driver
 7. Eat pizza
+8. Throw away the pizza box
